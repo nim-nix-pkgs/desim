@@ -1,0 +1,15 @@
+Features that need to be implemented for initial release
+
+Introduction readme
+
+statistic publishing
+
+update documentation
+
+documentation command
+
+
+Future desirable features
+
+threading
+
